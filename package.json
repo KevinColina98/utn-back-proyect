@@ -1,0 +1,22 @@
+{
+  "name": "express-utn",
+  "version": "1.0.0",
+  "description": "A http server - utn",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "/index.js"
+  },
+  "keywords": [
+    "express",
+    "protocol",
+    "http"
+  ],
+  "author": "gabrielaberini",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
